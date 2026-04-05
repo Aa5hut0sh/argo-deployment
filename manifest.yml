@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: next-app
-        image: ashuttosh/next-app:81758b3c8a62a8329985bf64c68147b049dc3675
+        image: ashuttosh/next-app:b4a8d5977926b06576975cbf85f6ed3de999e6c1
         ports:
         - containerPort: 3000
 ---
